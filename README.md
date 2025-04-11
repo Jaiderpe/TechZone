@@ -3,7 +3,6 @@
 
 # 🚀 **TechZone - Sistema de Gestión de Inventario**
 
-![TechZone Logo](https://via.placeholder.com/150) 
 
 Bienvenido al repositorio del proyecto **TechZone**, un sistema de gestión de inventario diseñado para tiendas de tecnología. Este proyecto permite a los administradores gestionar productos, clientes, proveedores y ventas de manera eficiente, utilizando PostgreSQL como motor de base de datos.
 
